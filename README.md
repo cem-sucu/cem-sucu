@@ -22,6 +22,7 @@ Bonjour à tous,<br><br>Je m'appelle Cemil mais je préfère Cem, passionné de 
 <img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cem-sucu&icon=0&color=8)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=cem-sucu&icon=0&color=8)
 
+<!-- [![](https://visitcount.itsvg.in/api?id=cem-sucu&icon=0&color=8)](https://visitcount.itsvg.in) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
