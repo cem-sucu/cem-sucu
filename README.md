@@ -1,5 +1,36 @@
 # 💫 A propos de moi :
-Bonjour à tous,<br><br>Je m'appelle Cem, passionné de développement web et animé par la volonté de devenir un développeur web accompli de haut niveau.<br><br>Mon parcours a débuté avec une formation orientée frontend à l'école O'CLOCK. Là-bas, j'ai acquis des compétences en HTML, CSS JavaScript et React.js. J'ai appris à concevoir des interfaces utilisateur attrayantes et interactives, et découvert l'importance de l'expérience utilisateur dans la conception de sites web modernes.<br><br>Actuellement, je poursuis ma formation avec Elan Formation, cette fois-ci orientée vers le backend. J'ai ainsi l'opportunité d'apprendre des langages tels que, PHP,  Node.js, ainsi que des bases de données et des concepts essentiels pour assurer le bon fonctionnement des applications web et la gestion des données.<br><br>Mon objectif ultime est de devenir un développeur web polyvalent et compétent, capable de maîtriser aussi bien le frontend que le backend pour créer des applications web complètes et performantes.
+Bonjour à tous,<br><br>
+
+Je m'appelle Cem, développeur web passionné et déterminé à atteindre un haut niveau de maîtrise dans ce domaine.<br><br>
+
+Mon parcours a commencé avec une formation orientée frontend à l'école O'CLOCK, où j'ai acquis des compétences en HTML, CSS, JavaScript et React.js.<br>  
+Cette expérience m'a permis de concevoir des interfaces utilisateur attrayantes et interactives, tout en découvrant l'importance de l'expérience utilisateur dans la conception de sites web modernes.<br><br>
+
+Par la suite, j'ai poursuivi ma formation avec Elan Formation, cette fois orientée vers le backend.<br>  
+J'y ai appris à travailler avec des langages comme PHP et Node.js, ainsi qu'à gérer des bases de données et à comprendre les concepts essentiels pour assurer le bon fonctionnement des applications web et la gestion des données.<br><br>
+
+Aujourd'hui, avec plus d'un an d'expérience en CDI, je travaille principalement en Node.js et JavaScript.<br>  
+Parmi mes réalisations, j'ai :<br>
+- Développé des scripts de **scraping** avancés avec **Puppeteer** pour scrapper toutes les infos des sites partenaire à l'entrprise pour laquelle je travail;<br>
+- C'est à dire les prix public, HT, achat, les images, les infos en détails, les caractéristique, pour les intégrés automatiquement dans le dolibarr de l'entreprise<br> 
+- Créé une application web pour un client facilitant l'intégration de **Xibo** avec **Nextcloud**, ainsi qu'un player pour l'affichage dynamique<br>
+- Réalisé quelques modules pour **WordPress** et **PrestaShop** ainsi que **Dolibarr**;<br>
+- Mis à jour régulierement des sites **Wordpress et Prestashop**, ainsi que le renouvellememt, création, ajout de son contenu;<br>
+- Travaillé sur des projets frontend et backend, avec un focus sur le **JavaScript** et **Node.js**;<br><br>
+
+En parallèle, je code également beaucoup avec **React.js** et **React Native**, deux technologies que j'apprécie particulièrement pour leur flexibilité et leur puissance dans le développement d'applications web et mobiles.<br><br>
+
+Je m'intéresse de plus en plus à **Python**, car je suis convaincu que l'intelligence artificielle prendra une place essentielle dans le futur.<br>  
+Dans cette optique, j'ai choisi de prioriser l'apprentissage autodidacte de **Python**, afin d'atteindre un haut niveau en programmation et de pouvoir m'adapter très facilement en cas de projet en adéquation avec ma vison et mes valeurs dans les années à venir<br><br>
+
+Je m'épanouis dans les défis techniques, que ce soit pour concevoir des solutions innovantes ou améliorer les performances des applications web.<br>  
+Mon objectif reste de devenir un développeur web complet, capable de créer des projets de bout en bout et d'accompagner les entreprises dans leur transformation numérique.<br>
+
+J'aimerais conclure que pour moi le langage de programmation n'a pas d'importance, ce qui compte le plus, c'est : <br>
+- La capacité à décompomsé un problème en plusieurs partie si nécessaire, <br>
+- Construire une logique,<br>
+- L'exprimer de  façons claire, <br>
+- Et le résoudre. <br>
 
 
 # 🌐 Sociale :
